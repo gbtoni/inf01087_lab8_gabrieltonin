@@ -1,0 +1,7 @@
+Prompt simples - explicação conceitual: Explique o modelo de Von Neumann.
+
+Prompt específico - explicação conceitual: Explique o modelo de Von Neumann para um aluno de Ciência da Computação, que está estudando para uma prova, de forma simples e direta.
+
+Prompt simples - geração de código: Gere um programa que gere uma matriz 3x3 aleatória, e então calcula sua determinante.
+
+Prompt melhorado - geração de código: Gere um programa em python que gere uma matriz 3x3 aleatória, e então calcula sua determinante, com comentários detalhados sobre cada passo, com exemplos de saída.
